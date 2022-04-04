@@ -1,0 +1,14 @@
+{
+  "name": "ducky",
+  "version": "1.0.0",
+  "description": "Ducky Culture has main idea to connect people from all over the world, to create friendly atmosphere, to tell people of ease of interaction. The main character of this idea is duck Kemix, who appeared in Surf Coffee coffee house 3 years ago. Kemix become the guests favorite. Also some items on Kemix symbolize the main coffee shop baristas who delight guests and cheer them up. The author want Kemix duck to appear someday in metaverse as 3D model. As for money collected from selling arts - 10% will go as tips for barista in coffee shop, and 90% will be divided for fund to support people in difficult life situations and debris cleanup fund (this is surfer duck after all). The most valuable for the authors work of art are 3D model of Kemix, and 2D prototype of 3D model which is looks almost the same. All the pictures were generated randomly so the author does not know which number will take the original 2D Kemix. Also want to admit that the ideas of freedom life and hapiness are used in developing company Surf Coffee and phrase Surfing Never Alone, which become key phrase and one of the most valuable phases in Ducky Culture. All this pictures were made manually by aspiring artist using only one brush tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ducky",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
